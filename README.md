@@ -12,9 +12,7 @@ Senior Software Development Engineer at [Adobe Japan](https://github.com/adobe)
 <a href="https://github.com/tamanyan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanyan&count_private=true" />
 </a>
-<a href="https://github.com/tamanyan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanyan&layout=compact" />
-</a>
+
 
 ### A liitle more about me...
 
